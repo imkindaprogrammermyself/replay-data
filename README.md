@@ -22,3 +22,5 @@ It will return a json which contains the extraction status http://somelocationwh
 Just continuously get the extraction status until it returns the replay data.
 
 Example output: https://gist.github.com/imkindaprogrammermyself/6e8ce1f012bdbe13b4fe14d510518349
+
+To increase the number of workers, change `--concurrency=1` in the `else` clause in the file `worker_runner.py`
