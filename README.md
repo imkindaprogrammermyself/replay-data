@@ -4,7 +4,7 @@ A Simple WoWS replay data extraction using Flask, Celery, Redis
 
 ## How does it work?
 
-The data is extracted from a replay file using this modified [replay_unpack](https://github.com/Monstrofil/replays_unpack) (by [Monstrofil](https://github.com/Monstrofil)) and then visualized.
+The data is extracted from a replay file using this modified [replay_unpack](https://github.com/Monstrofil/replays_unpack) (by [Monstrofil](https://github.com/Monstrofil)).
 
 ## How to set this up?
 
